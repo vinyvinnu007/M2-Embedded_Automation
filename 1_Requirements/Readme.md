@@ -31,4 +31,26 @@ This system is usually done in 3 tasks:
 | - | - |
 |LLR\_01	|Display the temperature|
 
+- **SWOT ANALYSIS**
+
+- **Strengths**
+
+` `Can change the temperature to the required value.
+
+- **Weakness**
+
+`       `Request should be implemented for each and every required temperature.
+
+- **Opportunities**
+
+Implementation in better code which serves various other purposes
+
+- **Threats**
+
+Security
+
+
+
+
+
 
