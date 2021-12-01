@@ -1,5 +1,6 @@
 [![Cpp-check](https://github.com/vinyvinnu007/M2-Embedded_Automation/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vinyvinnu007/M2-Embedded_Automation/actions/workflows/cppcheck.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f99a006df2fe4ea789751d9f85750162)](https://www.codacy.com/gh/vinyvinnu007/M2-Embedded_Automation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vinyvinnu007/M2-Embedded_Automation&amp;utm_campaign=Badge_Grade)
+[![Compile-Linux](https://github.com/vinyvinnu007/M2-Embedded_Automation/actions/workflows/Compile.yml/badge.svg)](https://github.com/vinyvinnu007/M2-Embedded_Automation/actions/workflows/Compile.yml)
 
 
 ## Embedded C Project
