@@ -1,4 +1,4 @@
-PROJ_NAME = Automation
+PROJ_NAME = Activities
 
 BUILD_DIR = Build
 
