@@ -1,4 +1,4 @@
-
+[![Cpp-check](https://github.com/vinyvinnu007/M2-Embedded_Automation/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/vinyvinnu007/M2-Embedded_Automation/actions/workflows/cppcheck.yml)
 
 
 ## Embedded C Project
